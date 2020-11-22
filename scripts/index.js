@@ -1,3 +1,5 @@
+'use strict'
+
 import shoppingList from './shopping-list.js';
 
 const main = function () {
